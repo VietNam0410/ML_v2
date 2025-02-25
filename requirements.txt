@@ -1,0 +1,11 @@
+streamlit
+mlflow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tensorflow  # Nếu bạn dùng deep learning
+torch       # Nếu bạn dùng PyTorch
+opencv-python-headless  # Nếu cần xử lý ảnh
